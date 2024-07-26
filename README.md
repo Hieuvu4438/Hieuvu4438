@@ -21,7 +21,7 @@
 
  </div>
  
-<div align="center"> 
+<div align="center"> 🌐Social <br/>
   <a href="mailto:vhieu4344@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -30,7 +30,16 @@
   </a>
   <a href="https://www.facebook.com/profile.php?id=100021483982083" target="_blank">
      <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-    
+    <br/>
+      <a href="https://www.facebook.com/profile.php?id=100021483982083" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
+  </a>
+      <a href="https://www.instagram.com/_vdh437_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+      <a href="https://github.com/Hieuvu4438" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  </a>
   </a>
 </div>
 
@@ -39,7 +48,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,c,dart,python,java,mysql,r,kotlin" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,dart,python,java,mysql,r,kotlin" /> <br/>
     <img src="https://skillicons.dev/icons?i=github,discord,instagram,linkedin,notion,vscode,flutter" /><br>
 </div>
 
