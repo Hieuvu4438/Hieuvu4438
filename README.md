@@ -69,7 +69,7 @@
 </div>
 
 <div align="center"> 
-📊GitHub Stats :
+<h2>📊 GitHub Stats 📊</h2>
 <div>
     
 ![](https://github-readme-stats.vercel.app/api?username=Hieuvu4438&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
@@ -78,7 +78,7 @@
 
 
 <div align = "center"> 
-📽My Project :
+<h2>📽 My Project 📽<h2> 
 <div>
     
 <a href="https://github.com/Hieuvu4438/Code-C">
@@ -98,13 +98,13 @@
 <hr/>
 
 <div align = "center"> 
-🏆GitHub Trophies :
+🏆 GitHub Trophies 🏆
     
 ![](https://github-trophies.vercel.app/?username=Hieuvu4438&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 <div>
     
 <div align = "center"> 
-✍️Dev Quote :
+✍️ Dev Quote ✍️ 
     
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
