@@ -73,12 +73,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hieuvu4438&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hieuvu4438&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Hieuvu4438&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 <a href="https://github.com/Hieuvu4438/Code-C">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Hieuvu4438&repo=Code-C&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Hieuvu4438&repo=Code-C&theme=radical" />
 </a>
 
 <a href="https://github.com/Hieuvu4438/CODE-PTIT-CPP">
@@ -88,9 +85,12 @@
 
 <a href="https://github.com/Hieuvu4438/Hieuvu4438">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Hieuvu4438&repo=Hieuvu4438&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Hieuvu4438&repo=Hieuvu4438&theme=radical" />
 </a>
 <hr/>
+
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=Hieuvu4438&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ### ✍️Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
