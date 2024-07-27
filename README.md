@@ -68,11 +68,15 @@
 
 </div>
 
-# 📊GitHub Stats :
+<div align="center"> 
+📊GitHub Stats :
+    
 ![](https://github-readme-stats.vercel.app/api?username=Hieuvu4438&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hieuvu4438&theme=radical&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hieuvu4438&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hieuvu4438&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div>
 
+    
 <a href="https://github.com/Hieuvu4438/Code-C">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Hieuvu4438&repo=Code-C&theme=radical" />
@@ -89,9 +93,15 @@
 </a>
 <hr/>
 
-## 🏆GitHub Trophies
+<div align = "center"> 
+🏆GitHub Trophies :
+    
 ![](https://github-trophies.vercel.app/?username=Hieuvu4438&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-### ✍️Dev Quote
+<div>
+    
+<div align = "center"> 
+✍️Dev Quote :
+    
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
