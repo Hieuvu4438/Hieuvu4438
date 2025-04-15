@@ -80,7 +80,11 @@
 <div align = "center"> 
 <h2>📽 My Project 📽<h2> 
 <div>
-    
+
+<a href="https://github.com/Hieuvu4438/foody_web">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Hieuvu4438&repo=foody_web&theme=radical" />
+</a>
 <a href="https://github.com/Hieuvu4438/Code-C">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Hieuvu4438&repo=Code-C&theme=radical" />
