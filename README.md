@@ -81,6 +81,21 @@
 <h2>📽 My Project 📽<h2> 
 <div>
 
+<a href="https://github.com/Hieuvu4438/Companion_Chatbot">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Hieuvu4438&repo=Companion_Chatbot&theme=radical" />
+</a>
+
+<a href="https://github.com/Hieuvu4438/Smart_Traffic_System">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Hieuvu4438&repo=Smart_Traffic_System&theme=radical" />
+</a>
+
+<a href="https://github.com/Hieuvu4438/Python-Assignment-02">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Hieuvu4438&repo=Python-Assignment-02&theme=radical" />
+</a>
+
 <a href="https://github.com/Hieuvu4438/Python-Assignment-01">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Hieuvu4438&repo=Python-Assignment-01&theme=radical" />
