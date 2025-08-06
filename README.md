@@ -57,7 +57,7 @@
 </td>
 <td width="50%" valign="top">
 
-### � **Real-time GitHub Activity**
+### 🚀 **Real-time GitHub Activity**
 
 <!--START_SECTION:activity-->
 ```typescript
@@ -311,7 +311,7 @@ interface Developer {
   <tr>
     <td width="50%">
       <div align="center">
-        <h3>� Smart Traffic Detection System</h3>
+        <h3>🚀 Smart Traffic Detection System</h3>
         <a href="https://github.com/Hieuvu4438/Smart_Traffic_System" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hieuvu4438&repo=Smart_Traffic_System&theme=tokyonight&hide_border=true&show_owner=true" />
         </a>
